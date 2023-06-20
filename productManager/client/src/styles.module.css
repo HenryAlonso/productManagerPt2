@@ -1,0 +1,41 @@
+.content{
+    text-align: center;
+    padding: 15px;
+    width: 20%;
+    margin: 0 auto;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.inputs{
+    padding: 15px;
+    background-color: lightgray;
+    margin: 10px 0;
+}
+.half{
+    width: 50%;;
+}
+.label{
+    width: 50%;
+    margin-right: 10px;
+}
+.submit{
+    font-weight: bold;
+    width: 50%;
+    padding: 10px;
+    border: white;
+    border-radius: 15px;
+    align-self: center;
+}
+.submit:hover{
+    background-color: rgb(210, 208, 208);
+}
+.simpleList{
+    list-style-type: none;
+}
+.detail{
+    border: 1px solid black;
+    margin: 25px 0;
+}
